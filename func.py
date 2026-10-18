@@ -1,1 +1,5 @@
-print (2+2)
+nombre = "Jose"
+apellido = 'Luna'
+
+saludo = "Hola " + nombre + " " + apellido + "¿Como esta?"
+print(saludo)

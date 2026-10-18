@@ -1,4 +1,3 @@
-nombre = "Hola"
 nombre = "Najwa"
 apellido = 'Luna'
 
